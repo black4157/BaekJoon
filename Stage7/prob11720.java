@@ -16,3 +16,4 @@ public class prob11720 {
 		System.out.print(sum);
 	}
 }
+ 

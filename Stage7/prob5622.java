@@ -28,7 +28,7 @@ public class prob5622 {
 			} else {
 				count += 2;
 			}
-		}
+		} 
 		System.out.print(count);
 	}
 }

@@ -8,3 +8,4 @@ public class prob11654 {
 		System.out.print((int)a);
 	}
 }
+ 
