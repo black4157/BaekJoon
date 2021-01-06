@@ -24,7 +24,7 @@ public class prob5622 {
 			} else if(s.charAt(i) == 'T' || s.charAt(i) == 'U' || s.charAt(i) == 'V') {
 				count += 9;
 			} else if(s.charAt(i) == 'W' || s.charAt(i) == 'X' || s.charAt(i) == 'Y' || s.charAt(i) == 'Z') {
-				count += 10;
+				count += 10; 
 			}
 		}
 		System.out.print(count);
