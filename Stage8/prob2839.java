@@ -17,7 +17,7 @@ public class prob2839 {
 			three++;
 		}
 		
-		if( n < 0 ) bw.write("-1");
+		if( n < 0 ) bw.write("-1"); 
 		else {
 			five = n / 5;
 			bw.write(String.valueOf(three + five));
